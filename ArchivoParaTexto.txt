@@ -1,5 +1,5 @@
-Texto escrito en ramaPrueba.
+Texto escrito en ramaMaster.
 
 Este texto no cambia.
 
-Version 1.1
+Version 1.2
